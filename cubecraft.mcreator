@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CubeletMachine",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "cubelet_machine"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.cubecraft.cubelet_machine": "Cubelet Machine"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "cubecraft",
+    "modName": "CubeCraft Cubelet Test",
+    "version": "1.0.0",
+    "author": "tessa, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.cubecraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
